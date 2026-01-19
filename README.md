@@ -9,9 +9,9 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats with animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairZabala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairZabala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
+  <!-- GitHub Stats with animation (includes private repos - generated via GitHub Actions) -->
+  <img height="180em" src="./stats/github-stats.svg"/>
+  <img height="180em" src="./stats/top-langs.svg"/>
 </div>
 
 ---
