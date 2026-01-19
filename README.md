@@ -10,8 +10,8 @@
 
 <div align="center">
   <!-- GitHub Stats with animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairZabala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairZabala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
 </div>
 
 ---
@@ -74,10 +74,10 @@
 
 <div align="center">
   <!-- Contribution Graph - This will show your actual contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HairZabala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF" alt="Contribution Graph" />
 
   <!-- Snake eating contributions -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HairZabala/HairZabala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
 ## 🔥 **Streak Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=HairZabala&theme=tokyonight&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
 </div>
 
 ---
@@ -105,7 +105,7 @@
 ## 🎨 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HairZabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HairZabala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -122,16 +122,16 @@
 ## 🤝 **Let's Connect!**
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/HairZabala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/HairZabala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/HairZabala" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -143,7 +143,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%98%8A&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HairZabala&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
 
-  <p>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></p>
+  <p>⭐️ From <a href="https://github.com/HairZabala">HairZabala</a></p>
 </div>
