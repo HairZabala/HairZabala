@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Animated header with typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=7E3ACE&size=40&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+%F0%9F%91%8B;Full+Stack+Developer;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=0EA5E9&size=40&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+%F0%9F%91%8B;Full+Stack+Developer;Building+Amazing+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
   <!-- Animated wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0066FF&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 ---
@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- Contribution Graph - This will show your actual contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HairZabala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&range=all" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HairZabala&theme=blueberry&hide_border=true&bg_color=001122&color=0EA5E9&line=0EA5E9&point=FFFFFF&range=all" alt="Contribution Graph" />
 
   <!-- Snake eating contributions -->
   <img src="https://raw.githubusercontent.com/HairZabala/HairZabala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -106,10 +106,10 @@
 
 <div align="center">
   <!-- Animated footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%98%8A&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0066FF&height=65&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%98%8A&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=HairZabala&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HairZabala&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
 
   <p>⭐️ From <a href="https://github.com/HairZabala">HairZabala</a></p>
 </div>
