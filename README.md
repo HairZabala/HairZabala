@@ -85,28 +85,13 @@
 ## 💼 **What I'm Working On**
 
 <div align="center">
-  - 🏗️ Building scalable backend services with **NestJS** and **GraphQL**
-  - 📱 Creating cross-platform mobile apps with **React Native Expo**
-  - 🌐 Developing modern web applications with **Next.js**
-  - 🔌 Designing efficient **REST APIs** for seamless integrations
-  - ⚡ Optimizing performance and user experience
-</div>
-
----
-
-## 🎨 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HairZabala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 **Activity Overview**
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HairZabala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE" alt="WakaTime Stats" />
+  <ul style="list-style: none; padding: 0;">
+    <li>🏗️ Building scalable backend services with <strong>NestJS</strong> and <strong>GraphQL</strong></li>
+    <li>📱 Creating cross-platform mobile apps with <strong>React Native Expo</strong></li>
+    <li>🌐 Developing modern web applications with <strong>Next.js</strong></li>
+    <li>🔌 Designing efficient <strong>REST APIs</strong> for seamless integrations</li>
+    <li>⚡ Optimizing performance and user experience</li>
+  </ul>
 </div>
 
 ---
