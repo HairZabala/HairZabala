@@ -9,9 +9,9 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats with animation (includes private repos - generated via GitHub Actions) -->
-  <img height="180em" src="./stats/github-stats.svg"/>
-  <img height="180em" src="./stats/top-langs.svg"/>
+  <!-- GitHub Stats with animation -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HairZabala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HairZabala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7E3ACE"/>
 </div>
 
 ---
@@ -36,36 +36,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</div>
-
----
-
-## 🎯 **Skills Breakdown**
-
-<div align="center">
-  <!-- Animated skill bars -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Backend Expertise</h3>
-        <img src="https://skillicons.dev/icons?i=nestjs,graphql,nodejs,typescript" />
-        <p>
-          <strong>NestJS</strong> - Building scalable server-side applications<br/>
-          <strong>GraphQL Apollo</strong> - Efficient data fetching & real-time subscriptions<br/>
-          <strong>REST API</strong> - Designing robust RESTful services
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>Frontend & Mobile</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,expo,js" />
-        <p>
-          <strong>React Native Expo</strong> - Cross-platform mobile apps<br/>
-          <strong>Next.js</strong> - Server-side rendered web applications<br/>
-          <strong>Modern React</strong> - Building interactive UIs
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
