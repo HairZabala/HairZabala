@@ -77,7 +77,7 @@
 ## 🔥 **Streak Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=HairZabala&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HairZabala&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
 </div>
 
 ---
