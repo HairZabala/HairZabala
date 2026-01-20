@@ -19,6 +19,9 @@ jobs:
         with:
           github_user_name: HairZabala
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          github_user_email: ""
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

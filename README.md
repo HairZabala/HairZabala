@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- Contribution Graph - This will show your actual contributions -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HairZabala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HairZabala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&range=all" alt="Contribution Graph" />
 
   <!-- Snake eating contributions -->
   <img src="https://raw.githubusercontent.com/HairZabala/HairZabala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
