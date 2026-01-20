@@ -77,7 +77,7 @@
 ## 🔥 **Streak Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=HairZabala&theme=tokyonight&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=HairZabala&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
 </div>
 
 ---
@@ -85,12 +85,12 @@
 ## 💼 **What I'm Working On**
 
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>🏗️ Building scalable backend services with <strong>NestJS</strong> and <strong>GraphQL</strong></li>
-    <li>📱 Creating cross-platform mobile apps with <strong>React Native Expo</strong></li>
-    <li>🌐 Developing modern web applications with <strong>Next.js</strong></li>
-    <li>🔌 Designing efficient <strong>REST APIs</strong> for seamless integrations</li>
-    <li>⚡ Optimizing performance and user experience</li>
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li style="list-style: none;">🏗️ Building scalable backend services with <strong>NestJS</strong> and <strong>GraphQL</strong></li>
+    <li style="list-style: none;">📱 Creating cross-platform mobile apps with <strong>React Native Expo</strong></li>
+    <li style="list-style: none;">🌐 Developing modern web applications with <strong>Next.js</strong></li>
+    <li style="list-style: none;">🔌 Designing efficient <strong>REST APIs</strong> for seamless integrations</li>
+    <li style="list-style: none;">⚡ Optimizing performance and user experience</li>
   </ul>
 </div>
 
